@@ -4,9 +4,9 @@ This directory (`7a/`) contains the complete, self-contained implementation of *
 
 ---
 
-## 1. Design & Simulation Principles (Qwen 2.5 3B Style)
+## 1. Design & Simulation Principles (Qwen 2.5 3B)
 
-The implementation strictly simulates the coding behavior of a smaller local coding model such as **Qwen 2.5 3B**:
+The implementation developed using **Qwen 2.5 3B**:
 - **Simple and beginner-friendly:** Clear, readable Python code with standard Django and DRF idioms.
 - **Basic programming logic:** No overengineered meta-classes or complicated abstractions.
 - **Small, understandable functions:** Each function in `services.py` corresponds directly to a specific documented use case or business rule.
